@@ -1,0 +1,36 @@
+{
+  "name": "jsquickstartapp",
+  "version": "1.0.0",
+  "description": "a quick javascript app skeleton",
+  "main": "app/app.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukemuccillo/JsQuickstart.git"
+  },
+  "keywords": [
+    "javascript",
+    "gulp",
+    "npm"
+  ],
+  "author": "Luke Muccillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukemuccillo/JsQuickstart/issues"
+  },
+  "homepage": "https://github.com/lukemuccillo/JsQuickstart#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-mocha": "^2.2.0",
+    "gulp-util": "^3.0.7",
+    "jshint": "^2.9.1",
+    "mocha": "^2.4.5"
+  }
+}
